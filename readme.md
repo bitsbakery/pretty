@@ -49,7 +49,7 @@ GCC C++ versions 11,12,13 were all tried. Versions 12 and 13 were unable to buil
 
 ### CMake
 
-CMake support for C++20 modules is very experimental and is not ready production.
+CMake support for C++20 modules is very experimental and is not ready for production.
 
 The library provides a temporary CMake-compatible solution without C++20 modules, `pretty.cpp` and `pretty.h`. The support for these files will be dropped in the future in favor of modules. 
 
